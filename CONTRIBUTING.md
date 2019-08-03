@@ -40,7 +40,7 @@ Aquí encontrará pautas para contribuir a Datos Profundos. No dude en proponer 
 ### Solicitudes de extracción
 ¡Se recomienda encarecidamente solicitar solicitudes de correcciones de traducción, adiciones al material de introducción a Python, herramientas / tutoriales de código abierto creados con datos abiertos o recursos!
 
-¿Estás trabajando en tu primera solicitud de extracción? Puede aprender cómo de esta serie gratuita [Cómo contribuir a un proyecto de código abierto en GitHub] (https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github )
+¿Estás trabajando en tu primera solicitud de extracción? Puede aprender cómo de esta serie gratuita [Cómo contribuir a un proyecto de código abierto en GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 ### Directrices para solicitudes de extracción:
 
