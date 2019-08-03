@@ -17,7 +17,3 @@ Enjoy!
 Para contribuir, [consulte nuestras pautas](https://github.com/jesmith14/DatosProfundos/blob/master/CONTRIBUTING.md).
 
 ¡Disfrutar!
-
-***
-
-![](https://media.giphy.com/media/fSRR6jTOJggap5KGS9/giphy.gif)
