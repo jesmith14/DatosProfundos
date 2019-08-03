@@ -28,6 +28,10 @@ Include only related work. If your pull request has an unrelated commit, it won'
 ### Bug Reports
 If there is a problem with the tutorial, feel free to submit a bug report.
 
+### Contact Us!
+
+If you have any suggestions for this repository, or you'd like to get involved in the Cali Open Data movement, [please reach out](https://www.linkedin.com/in/jessiejsmith/)!
+
 ***
 
 # [Español](#Español)
@@ -59,3 +63,8 @@ Incluir solo trabajo relacionado. Si su solicitud de extracción tiene una confi
 
 ### Informes de errores
 Si hay un problema con el tutorial, no dude en enviar un informe de error.
+
+
+### ¡Contáctenos!
+
+Si tiene alguna sugerencia para este repositorio, o si desea participar en el movimiento de Datos Abiertos de Cali, [comuníquese](https://www.linkedin.com/in/jessiejsmith/)!
